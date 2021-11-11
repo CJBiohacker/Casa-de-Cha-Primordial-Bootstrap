@@ -1,0 +1,50 @@
+#barra-nav {
+    margin: 15px 0 -5px ;
+}
+
+#title {
+    margin-top: 25px;
+    font-family: 'Vegan Style Personal Use', sans-serif;
+    font-size: 64px;
+}
+
+#mini-title {
+    text-decoration: underline;
+    font-style: italic;
+    margin-top: -10px;
+    font-size: 14px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#titulo-chas {
+    margin: 25px 0px 50px;
+    font-size: 30px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+#cha-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#mug-icon {
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+#row1,
+#row2 {
+    margin: 5px;
+}
